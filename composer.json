@@ -1,5 +1,5 @@
 {
-    "name": "oro/crm-hangouts-call-bundle",
+    "name": "oro/crm-other-call-bundle",
     "type": "symfony-bundle",
     "description": "Oro Google Hangouts integration",
     "keywords": ["Oro", "Google Hangouts", "integration"],
